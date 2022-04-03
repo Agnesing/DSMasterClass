@@ -3,5 +3,8 @@ Rozwiązanie, które opracowałam w ramach wydarzenia Data Science Master Class 
 <BR>
 https://www.kaggle.com/c/master-class-property/leaderboard<BR>
 https://dataworkshop.eu/
+  
+  
+Prezentacja rozwiązania: https://www.facebook.com/dataworkshop.eu/videos/322404919531410
 
 
